@@ -1,0 +1,13 @@
+# IDE και cache
+.vscode/
+.idea/
+__pycache__/
+
+# Περιττά αρχεία
+*.log
+*.tmp
+*.large_file
+
+# Environment
+myenv/   # <-- Αλλαγή από 'venv/' σε 'myenv/'
+.env
