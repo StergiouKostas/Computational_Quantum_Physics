@@ -21,7 +21,6 @@ Each project combines theory, numerical methods, and data analysis in Python—u
   - Automated regression analysis and interpretative plots.
   - Full LaTeX report with equations and results.
 
-👉 [Go to Project 1 – Information Entropy Theory](./project1_information-entropy/)
 
 ---
 
@@ -40,6 +39,5 @@ Each project combines theory, numerical methods, and data analysis in Python—u
   - Modular, well-commented `.ipynb` notebooks.
   - LaTeX-ready plots and performance analysis.
 
-👉 [Go to Project 2 – Higgs Classification with ML](./project2_higgs-ml/)
 
 ---
